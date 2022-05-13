@@ -8,4 +8,5 @@ pytest-flask
 coverage
 pytest-cov
 virtualenv
+Flask
 Flask_WTF
